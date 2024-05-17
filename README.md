@@ -7,3 +7,5 @@ https://youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF&si=WbRyM4f6
 Minute Python Program Examples
 
 https://youtube.com/playlist?list=PL-Jc1Yxezi_To307LogWqMwn3KGNBMGPG&si=jSFobuk6f9RXFkRV
+
+Joseph C. Richardson, GitHub.com
