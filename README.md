@@ -1,4 +1,4 @@
-# My-YouTube-Python-Videos
+# My YouTube Python Videos
 
 Python Programmer's Glossary Bible By Joseph C. Richardson
 
