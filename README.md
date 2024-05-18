@@ -9,3 +9,5 @@ Minute Python Program Examples
 https://youtube.com/playlist?list=PL-Jc1Yxezi_To307LogWqMwn3KGNBMGPG&si=jSFobuk6f9RXFkRV
 
 Joseph C. Richardson, GitHub.com
+
+I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
