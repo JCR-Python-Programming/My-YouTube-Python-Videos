@@ -2,6 +2,8 @@
 
 Python Programmer's Glossary Bible By Joseph C. Richardson
 
+https://youtu.be/utSsPKhILJc?si=yH6eX7wBjkU9EBsv
+
 https://youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF&si=WbRyM4f6QRgQvWbw
 
 Minute Python Program Examples
